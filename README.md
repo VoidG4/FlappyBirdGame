@@ -1,6 +1,6 @@
 # 🐦 **Flappy Bird Game** 🎮
 
-![Flappy Bird Screenshot](/screenshot.png)  <!-- Replace with your actual image file -->
+![Flappy Bird Screenshot](/screenshot.png)
 
 A classic **Flappy Bird** game built using **C#** and **.NET** in **Visual Studio**.
 
@@ -43,11 +43,7 @@ This is a simple implementation of the famous **Flappy Bird** game using **C#** 
 ## 🙌 Credits
 
 - **Flappy Bird Concept**: Original game by Dong Nguyen
-- **Development**: Created by [Your Name]
+- **Development**: Created by VoidG4
 - **Technologies Used**:
   - C# for game logic and UI
   - .NET Framework for building the game
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
