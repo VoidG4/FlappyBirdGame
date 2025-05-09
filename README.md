@@ -24,6 +24,9 @@ This is a simple implementation of the famous **Flappy Bird** game using **C#** 
 ## 🔧 Installation
 
 1. Clone the repository or download the source code.
+ ```bash
+   git clone https://github.com/YourUsername/FlappyBirdGame.git
+```
 2. Open the solution in **Visual Studio**.
 3. Ensure you have the correct **.NET Framework** version installed (if required by your project).
 4. Build and run the project:
